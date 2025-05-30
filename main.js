@@ -10,8 +10,6 @@ let nomes = ['Amanda', 'Bia', 'Vitória'];
 console.log(nomes);
 console.log("O tamanho do Array nomes é: " + nomes.length);
 
-
-
 // EXERCÍCIO 02 - Adicionando elementos ao final
 // Adicione dois nomes ao final do array criado anteriormente.
 // Método sugerido: push
@@ -33,7 +31,6 @@ console.log(nomes);
 let removidoUltimo = nomes.pop();
 console.log("Nome removido:", removidoUltimo);
 console.log("Array restante:", nomes);
-
 
 // EXERCÍCIO 05 - Removendo o primeiro
 // Remova o primeiro nome do array e exiba o nome removido e o array restante.
