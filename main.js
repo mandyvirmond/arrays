@@ -70,7 +70,6 @@ let paginaRemovida = historico.pop();
 console.log("Saída da página:", paginaRemovida);
 console.log(historico);
 
-
 // EXERCÍCIO 10 - Alterando elementos
 // Crie um array de quatro cores e troque a terceira cor por "azul-marinho".
 // Método sugerido: splice
